@@ -1,4 +1,4 @@
-yesconst { colors } = require('@chakra-ui/theme');
+const { colors } = require('@chakra-ui/theme');
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
